@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-size: 500;
+}
+.container-main{
+    background-color: rgb(238, 238, 238);
+    height: 600px;
+    padding-left:100px ;
+    padding-top:100px ;
+    padding-right:50px ;
+    .title-wireless{
+        font-weight:700 ;
+        p{
+            font-size:15px;
+        }
+        h2{
+            font-size: 50px;
+        }
+    }
+    .container-tittle{
+        h1{
+            font-size: 205px;
+            font-weight: 900;
+            color: white;
+        }
+        span{
+            opacity: .5;
+        }
+        button{
+            background-color: rgb(250, 40, 59);
+            border-radius: 50px;
+            width: 200px;
+            height: 50px;
+            color: white;
+            border: none;
+        }
+    }
+    img{
+        height: 450px;
+        position: absolute;
+        right: 400px;
+        bottom:135px;
+        
+    }
+   
+   
+}
